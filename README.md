@@ -9,4 +9,4 @@ Playtest my game [here]().
 
 ## Prototype
 
-Play my prototype [here](prototype/Journey to The West.html).
+Play my prototype [here](prototype/JourneytoTheWest.html).
